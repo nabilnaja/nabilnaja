@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil Naja</h1>
 <h3 align="center">A Java Software Engineer working in Lausanne, Switzerland.</h3>
 
-- 🔭 I’m currently working at **AlmaZ SA**
+- 🔭 I’m currently working at **Sword Services SA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
